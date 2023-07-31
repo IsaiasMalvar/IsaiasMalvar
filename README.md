@@ -2,7 +2,7 @@
 <h3 align="center">I am greatly interested in the creative capabilities of programming.</h3>
 <div align="center">
   <div style="display: flex; justify-content: center;">
-    <img alt="Coding" width="400" src="https://64.media.tumblr.com/3db86b016b03944b063c78fd55ec2c2e/tumblr_mhgb0rshoa1qmo2amo1_500.gifv">
+    <img alt="Coding" width="400" src="https://gifrun.blob.core.windows.net/temp/0715accdc6934903ba3508033a2e240f.gif">
   </div>
 </div>
 
