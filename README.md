@@ -22,6 +22,8 @@
 <br />
 <br />
 
+## What is going on with me now!
+
 
 - 🌱 I’m currently learning **NextJS**
 
@@ -29,7 +31,7 @@
 
 - 📫 How to reach me **isamalk35@gmail.com**
 
-- 
+
 
 <h3 align="left">Languages and Tools:</h3>
 <br />
