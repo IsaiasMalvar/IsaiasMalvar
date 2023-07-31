@@ -7,7 +7,7 @@
 </div>
 <h3 align="center">I am greatly interested in the creative capabilities of programming.</h3>
 <div align="center">
-  <div style="display: flex; justify-content: center;">
+  <div style="display: flex; justify-content: left;">
     <p>As a recent graduate from a full-stack bootcamp, I am truly captivated by the limitless possibilities that programming offers. My primary focus is to find a job where I can apply my skills effectively and continue to grow as a capable developer.
 
 I am highly motivated to learn and expand my knowledge in a dynamic work environment. Collaborating with a team of experienced professionals excites me, as I believe that learning from others is crucial for personal and professional development.
