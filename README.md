@@ -25,7 +25,6 @@
 ## What is going on with me now!
 
 <br />
-<br />
 
 
 - 🌱 I’m currently learning **NextJS**
