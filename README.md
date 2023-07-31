@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Isaias Malvar</h1>
 <h3 align="center">I am greatly interested in the creative capabilities of programming.</h3>
-<img  align="center" alt="Coding" width="400" src=https://stemettes.org/zine/wp-content/uploads/sites/3/2021/09/giphy-13-1.gif>
+<div align="center">
+<img alt="Coding" width="400" src=https://stemettes.org/zine/wp-content/uploads/sites/3/2021/09/giphy-13-1.gif>
+</div>
 
 - 🌱 I’m currently learning **NextJS**
 
