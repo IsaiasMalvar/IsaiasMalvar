@@ -6,7 +6,7 @@
   </div>
 </div>
 
-<div>
+<div style="padding: 20px 0;">
   <p align="left">As a recent graduate from the ISDI Coders full-stack bootcamp, I am truly captivated by the limitless possibilities that programming offers. My main focus is to find an environment where I can apply my skills effectively and continue to grow as a capable developer.
     Collaborating with a team of experienced professionals excites me, as I believe that learning from others is crucial for personal and professional development.
   </p>
