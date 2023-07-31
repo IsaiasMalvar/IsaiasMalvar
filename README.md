@@ -7,14 +7,10 @@
 </div>
 <h3 align="center">I am greatly interested in the creative capabilities of programming.</h3>
 <div align="center">
-  <div style="display: flex; justify-content: left;">
-    <p>As a recent graduate from a full-stack bootcamp, I am truly captivated by the limitless possibilities that programming offers. My primary focus is to find a job where I can apply my skills effectively and continue to grow as a capable developer.
-
-I am highly motivated to learn and expand my knowledge in a dynamic work environment. Collaborating with a team of experienced professionals excites me, as I believe that learning from others is crucial for personal and professional development.
-
-I am dedicated to contributing my best efforts to the projects I work on. I value open communication, adaptability, and the ability to tackle challenges head-on. As an aspiring programmer, I am enthusiastic about the process of problem-solving and finding innovative solutions.
-
-In my job search, I am seeking a role that encourages continuous learning and skill-building. I am eager to take on new responsibilities and contribute to the success of the team through hard work and a genuine passion for programming.</p>
+  <div style="display: flex; justify-content: start;">
+    <p>As a recent graduate from the ISDI Coders full-stack bootcamp, I am truly captivated by the limitless possibilities that programming offers. My main focus is to find an environment can apply my skills effectively and continue to grow as a capable developer.
+Collaborating with a team of experienced professionals excites me, as I believe that learning from others is crucial for personal and professional development.
+</p>
   </div>
 </div>
 
