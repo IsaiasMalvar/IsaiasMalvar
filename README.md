@@ -2,7 +2,7 @@
 <h3 align="center">I am greatly interested in the creative capabilities of programming.</h3>
 <div align="center">
   <div style="display: flex; justify-content: center;">
-    <img alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/1112747133888647210/1148025482034565161/fullstack_web_developer.gif">
+    <img alt="Coding" width="700" src="https://cdn.discordapp.com/attachments/1112747133888647210/1148025482034565161/fullstack_web_developer.gif">
   </div>
 </div>
 
