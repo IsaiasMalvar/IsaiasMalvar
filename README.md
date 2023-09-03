@@ -1,7 +1,7 @@
 
 <div align="center">
   <div style="display: flex; justify-content: center;">
-    <img alt="Coding" width="700" src="https://cdn.discordapp.com/attachments/1112747133888647210/1148025482034565161/fullstack_web_developer.gif">
+    <img alt="Coding" width="1000" src="https://cdn.discordapp.com/attachments/1112747133888647210/1148025482034565161/fullstack_web_developer.gif">
   </div>
 </div>
 
