@@ -30,7 +30,7 @@
 
 - 💬 Ask me about **MERN**
 
-- 📫 How to reach me **isamalk35@gmail.com**
+- 📫 How to reach me: **isamalk35@gmail.com**
 
 
 
