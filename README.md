@@ -8,12 +8,11 @@
 <br />
 <br />
 
-<div style="padding: 20px 0;">
-  <p align="left">Passionate about building scalable systems and solving modern challenges. Equipped with a strong backend focus and full-stack capabilities to deliver robust solutions. Ready to collaborate, learn, and create impact.
+<div style="padding: 20px 0; font-size: 18px;">
+  <p align="left">
+    Dedicated to building scalable systems and solving modern challenges with precision and expertise. 
+    A backend developer with strong full-stack foundations, ready to deliver impactful and reliable solutions.
   </p>
-</div>
-</div>
-  </div>
 </div>
 <br />
 <br />
