@@ -11,7 +11,7 @@
 <div style="padding: 20px 0; font-size: 18px;">
   <p align="left">
     Dedicated to building scalable systems and solving modern challenges with precision and expertise. 
-    A backend developer with strong full-stack foundations, ready to deliver impactful and reliable solutions.
+    A backend developer with front-end dual mindset, ready to deliver impactful and reliable solutions.
   </p>
 </div>
 <br />
